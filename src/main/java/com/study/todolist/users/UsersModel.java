@@ -1,4 +1,4 @@
-package com.study.todlist.users;
+package com.study.todolist.users;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

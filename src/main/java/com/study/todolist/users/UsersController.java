@@ -1,4 +1,4 @@
-package com.study.todlist.users;
+package com.study.todolist.users;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
